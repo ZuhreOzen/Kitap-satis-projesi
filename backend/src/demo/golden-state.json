@@ -1,0 +1,42 @@
+{
+  "users": [
+    { "username": "admin", "password": "123", "role": "ADMIN" },
+    { "username": "ali", "password": "123", "role": "CUSTOMER" },
+    { "username": "ayse", "password": "123", "role": "CUSTOMER" },
+    { "username": "can", "password": "123", "role": "CUSTOMER" }
+  ],
+  "books": [
+    { 
+      "title": "1984", 
+      "author": "George Orwell", 
+      "price": 120.00, 
+      "coverUrl": "/1984.jpg", 
+      "salesCount": 80, 
+      "stock": 25 
+    },
+    { 
+      "title": "Suç ve Ceza", 
+      "author": "Fyodor Dostoyevski", 
+      "price": 150.00, 
+      "coverUrl": "/suc_ve_ceza.jpg", 
+      "salesCount": 150, 
+      "stock": 40 
+    },
+    { 
+      "title": "Küçük Prens", 
+      "author": "Antoine de Saint-Exupéry", 
+      "price": 90.00, 
+      "coverUrl": "/kucuk_prens.jpg", 
+      "salesCount": 100, 
+      "stock": 50 
+    },
+    { 
+      "title": "Kürk Mantolu Madonna", 
+      "author": "Sabahattin Ali", 
+      "price": 110.00, 
+      "coverUrl": "/kurk_mantolu_madonna.jpg", 
+      "salesCount": 200, 
+      "stock": 30 
+    }
+  ]
+}
