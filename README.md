@@ -1,14 +1,5 @@
 # Kitap Satış Projesi
 
-**Hazırlayan:** Zühre Özen  
-**Öğrenci No:** 23253075  
-**Ders:** Yazılım Mühendisliği  
-**Proje Adı:** Kitap Satış Projesi
-
-> GitHub Proje Linki: `https://github.com/ZuhreOzen/Kitap-satis-projesi`
-
----
-
 ## 1. Proje Özeti
 
 Bu proje, `frontend/` ve `backend/` olmak üzere iki ayrı katmandan oluşan bir kitap satış uygulamasıdır. Uygulama; müşteri ve yönetici (admin) rollerini destekler, kitap listesi, sepet yönetimi ve satın alma akışını içerir.
