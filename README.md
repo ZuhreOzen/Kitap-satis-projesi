@@ -5,7 +5,7 @@
 **Ders:** Yazılım Mühendisliği  
 **Proje Adı:** Kitap Satış Projesi
 
-> GitHub Proje Linki: `https://github.com/kullaniciAdi/proje-adi`
+> GitHub Proje Linki: `https://github.com/ZuhreOzen/Kitap-satis-projesi`
 
 ---
 
